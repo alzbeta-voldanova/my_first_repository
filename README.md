@@ -1,2 +1,3 @@
 # my_first_repository
 repo for learning GIT
+I have added new text into this file
